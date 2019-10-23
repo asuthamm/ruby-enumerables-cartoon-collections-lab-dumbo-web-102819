@@ -7,8 +7,8 @@ end
 
 def summon_captain_planet(arr) # code an argument here
   new_arr = []
-  new+arr arr.map { |word| word.capitalize + "!"
-  new+arr   
+  new_arr arr.map { |word| word.capitalize + "!"
+  new_arr   
   end
 end
 
